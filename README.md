@@ -1,1 +1,1 @@
-Python file that tracks body movement and uses dotmaps for face
+Python file that tracks body movement and overlays a dotmap on face
